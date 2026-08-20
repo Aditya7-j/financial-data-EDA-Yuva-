@@ -55,3 +55,22 @@ Visualizations & Correlations
 Financial Insights
         ↓
 Final Report
+```
+
+## 📊 Visualizations
+
+### Bank Capital-to-Assets
+
+![Bank Capital-to-Assets](01_bank_capital_ratio.png)
+
+### Non-Performing Loans
+
+![Non-Performing Loans](02_npl_ratio.png)
+
+### Capital vs. Private Credit
+
+![Capital vs. Private Credit](03_capital_vs_credit.png)
+
+### Correlation Matrix
+
+![Correlation Matrix](04_correlation_matrix.png)

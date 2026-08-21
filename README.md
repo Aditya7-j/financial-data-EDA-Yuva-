@@ -1,4 +1,4 @@
-# Week 1 — Understanding Financial Data
+# Understanding Financial Data
 
 ## 📊 Project Overview
 

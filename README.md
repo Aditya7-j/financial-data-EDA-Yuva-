@@ -74,3 +74,9 @@ Final Report
 ### Correlation Matrix
 
 ![Correlation Matrix](04_correlation_matrix.png)
+
+## 📄 Report
+
+The detailed analysis and findings are available in:
+
+[📄 View the full project report](./Week1_Financial_Data_EDA_Report.docx)

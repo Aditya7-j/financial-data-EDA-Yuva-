@@ -1,4 +1,4 @@
-# Financial Data Analytics Internship — Yuva
+# Financial Data Analytics 
 
 ## 📊 Project Overview
 

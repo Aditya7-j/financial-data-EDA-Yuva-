@@ -1,4 +1,4 @@
-# Financial Data Analytics Project
+# Financial Data Analytics Internship
 
 ## 📊 Project Overview
 

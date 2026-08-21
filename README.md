@@ -1,4 +1,4 @@
-# Financial Data Analytics 
+# Financial Data Analytics Project
 
 ## 📊 Project Overview
 
@@ -51,7 +51,7 @@ The project was designed to develop practical skills in:
 
 ## 🔍 Key Financial Indicators
 
-The project primarily examines three banking-system indicators from the World Bank:
+The project primarily examines three banking-system indicators from the World Bank.
 
 ### Bank Capital to Assets
 
@@ -88,23 +88,186 @@ Measures domestic credit to the private sector provided by banks as a percentage
 
 ## 📈 Analytical Workflow
 
-```text
-Public Financial Data
-        ↓
-Data Acquisition
-        ↓
-Data Cleaning & Validation
-        ↓
-Exploratory Data Analysis
-        ↓
-Financial Forecasting
-        ↓
-Risk Analysis
-        ↓
-Hypothesis Testing
-        ↓
-Data Visualization
-        ↓
-Final Reporting
-        ↓
+Public Financial Data  
+↓  
+Data Acquisition  
+↓  
+Data Cleaning & Validation  
+↓  
+Exploratory Data Analysis  
+↓  
+Financial Forecasting  
+↓  
+Risk Analysis  
+↓  
+Hypothesis Testing  
+↓  
+Data Visualization  
+↓  
+Final Reporting  
+↓  
 Recommendations
+
+---
+
+## 📁 Repository Structure
+
+The repository is organized by week so that each stage of the project can be reviewed independently.
+
+- **Week 1** — Understanding Financial Data
+  - Dataset
+  - Python analysis
+  - Jupyter Notebook
+  - Visualizations
+  - Report
+
+- **Week 2** — Creating Financial Forecasts
+  - Forecast dataset
+  - Forecast visualization
+  - Python script
+  - Report
+
+- **Week 3** — Risk Analysis
+  - Risk register
+  - Risk matrix
+  - Python analysis
+  - Report
+
+- **Week 4** — Hypothesis Testing
+  - Statistical analysis dataset
+  - Hypothesis-testing visualization
+  - Python script
+  - Report
+
+- **Week 5** — Data Visualization
+  - Visualization datasets
+  - Financial charts
+  - Python script
+  - Report
+
+- **Week 6** — Reporting & Presentation
+  - Comprehensive final report
+  - Final project visualization
+  - Consolidated findings and recommendations
+
+---
+
+## 📊 Project Highlights
+
+### Week 1 — Exploratory Financial Data Analysis
+
+A 15-country sample was analyzed using three World Bank banking indicators.
+
+The analysis included:
+
+- Data acquisition
+- Data cleaning
+- Descriptive statistics
+- Cross-country comparisons
+- Exploratory data analysis
+- Correlation analysis
+- Financial visualizations
+
+### Week 2 — Financial Forecasting
+
+India's non-performing loan ratio was selected for a basic forecasting exercise.
+
+A transparent **three-year moving-average model** was used to produce a baseline forecast for future observations.
+
+### Week 3 — Risk Analysis
+
+Potential financial and analytical risks were identified and evaluated using:
+
+- Risk identification
+- Likelihood assessment
+- Impact assessment
+- Risk prioritization
+- Mitigation strategies
+
+### Week 4 — Hypothesis Testing
+
+A statistical hypothesis was developed around the relationship between calendar year and India's NPL ratio.
+
+The analysis included:
+
+- Null and alternative hypotheses
+- Pearson correlation testing
+- Regression analysis
+- Statistical significance
+- Interpretation
+- Limitations
+
+### Week 5 — Data Visualization
+
+Multiple visualization techniques were used to communicate financial patterns:
+
+- Ranked bar charts
+- Scatter plots
+- Correlation matrix
+- Comparative financial analysis
+
+### Week 6 — Final Reporting
+
+The final stage consolidated the previous work into a comprehensive financial analytics report containing:
+
+- Findings
+- Financial insights
+- Methodology
+- Limitations
+- Recommendations
+- Future analysis opportunities
+
+---
+
+## 💡 Key Project Takeaways
+
+The project demonstrates that financial-system analysis benefits from examining multiple indicators rather than relying on a single measure.
+
+Bank capitalization provides information about the capital position of the banking system, while NPL ratios provide insight into asset quality. Private-sector credit provides an indication of the depth of bank-provided credit relative to the economy.
+
+The project also demonstrates the importance of distinguishing between **association and causation**. Statistical relationships and correlations can reveal useful patterns, but they do not by themselves establish causal relationships.
+
+Similarly, financial forecasts should be treated as analytical estimates rather than guaranteed future outcomes. Model selection, data quality and assumptions can materially affect forecast results.
+
+---
+
+## ⚠️ Limitations
+
+This project is an educational financial-data analysis and should not be interpreted as investment advice, regulatory analysis, or a professional banking stress test.
+
+Key limitations include:
+
+- Relatively small cross-country sample
+- Differences in observation years
+- Aggregate rather than bank-level data
+- Limited historical observations for some analyses
+- Simplified forecasting methodology
+- Correlation does not establish causation
+
+These limitations provide opportunities for future improvements using larger datasets, synchronized panels, additional macroeconomic variables, and more advanced forecasting techniques.
+
+---
+
+## 🚀 Future Improvements
+
+Potential extensions of the project include:
+
+- Building a synchronized multi-country panel dataset
+- Adding GDP growth, inflation and interest-rate data
+- Comparing multiple forecasting methods
+- Adding confidence and prediction intervals
+- Performing banking-sector stress testing
+- Including additional financial indicators
+- Building an interactive Power BI dashboard
+- Developing automated World Bank API data updates
+- Expanding the analysis to bank-level datasets
+
+---
+
+## 👤 Author
+
+**Aditya Jadhav**
+
+Bachelor of Business Administration — Business Analytics
+
+This repository represents a six-week practical financial data analytics project covering data preparation, exploratory analysis, forecasting, risk analysis, statistical methods, visualization and professional reporting.
